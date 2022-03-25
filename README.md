@@ -1,4 +1,6 @@
-# AtanasovSpa
+# Atanasov-SPA
+
+[![CircleCI](https://circleci.com/gh/maximAtanasov/atanasov-spa.svg?style=svg)](https://circleci.com/gh/maximAtanasov/atanasov-spa)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
